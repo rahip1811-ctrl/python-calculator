@@ -1,2 +1,15 @@
-# python-calculator
-A simple Python calculator that performs basic arithmetic operations.
+# Python Calculator
+
+A simple command-line calculator built using Python.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Language Used
+Python
+
+## Author
+Patel Rahi Rohitbhai
